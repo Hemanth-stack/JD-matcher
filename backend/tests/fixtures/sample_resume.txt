@@ -1,0 +1,12 @@
+John Doe
+john.doe@example.com
+New York, NY, USA
+
+Skills: Python, FastAPI, React, Docker, SQL, TypeScript
+
+Experience:
+Software Engineer at Acme Corp (2020 - 2023)
+Junior Developer at Beta Inc (2018 - 2020)
+
+Education:
+B.Sc Computer Science, MIT, 2018
