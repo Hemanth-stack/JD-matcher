@@ -5,8 +5,9 @@ import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
   plugins: [react(), tailwindcss()],
   server: {
+    allowedHosts: ['jd-matcher.iamhemanth.in'],
     proxy: {
-      '/api': 'http://localhost:8000',
+      '/api': process.env.VITE_BACKEND_URL ?? 'http://localhost:8080',
     },
   },
 })

@@ -1,12 +1,14 @@
 # JD Matcher 🎯
 
+**Live Demo → [jd-matcher.iamhemanth.in](https://jd-matcher.iamhemanth.in)**
+
 A single-page application that matches a Job Description against up to 10 resumes and ranks candidates by relevance. Supports two independent scoring approaches — **Algorithmic** (no API cost, fully explainable) and **AI-powered** (GPT-4o, deeper semantic understanding).
 
 ---
 
-## Demo
+## Screenshot
 
-![JD Matcher UI](https://placehold.co/900x500?text=Upload+JD+%2B+Resumes+%E2%80%94+Get+Ranked+Results)
+![JD Matcher — Results Dashboard](./assets/screenshot.png)
 
 ---
 
